@@ -16,4 +16,6 @@ if __name__ == "__main__":
         print(multiples(no))
     except Exception as e:
         print("provide list of numbers")
+
+#output : {1: 9, 2: 4, 3: 3, 4: 2, 5: 1, 6: 1, 7: 1, 8: 1, 9: 1}
         
